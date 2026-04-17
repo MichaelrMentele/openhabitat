@@ -1,0 +1,97 @@
+---
+title: Body
+---
+
+## The Problem
+
+Your body is under assualt by the invisible. Our caveman biology did not evolve the ability to deal with:
+- nanoplastics
+- industrial chemicals
+- artificial light
+- billion $ algorithms and AI hijacks
+- static positions from use of screens, keyboards, mice, desks, etc.
+
+## The Goal
+
+360 Awareness - If we were completely aware of everything going on in our body, how it was being exploited, then we would know what we were losing out on and make informed decisions. If you look at the fluffy microfiber pillow and think, sure it's soft, but it's also nudging me towards dementia and a heart attack then you would see the costs and the benefits.
+
+Optimal defaults - If we had a set of systems and rules that ensured the invisible couldn't touch us without express permission, they would effectively cease to be a threat at all. We would live in our pristine healthy bubble.
+
+## The Gap
+
+The challenge with 360 Awareness is measuring nanoparticles and chemicals is really hard and really expensive. Our body is a mystery to itself, it just doesn't have internal diagnostics that can say, "Hey we are 10% dumber than two years ago, I think it's all this plastic in our brain mucking things up".
+
+The challenge with optimal defaults is its overwhelming. You have to understand not only how biology works, what matters for health, but also navigate all the noise to find the good stuff that actually works. Often products that market themselves a certain way are just false. For example, your clothes may be made out of 100% cotton but covered in chemical contaminants from the dying, bleaching, processing, or from the packaging it's put into.
+
+## The Solution
+
+While we can't measure everything all at once, what we can do is measure what matters so you know, overall, if you are trending better or worse. There is no measure that is better a measure than your expected lifespan for your current state and your future. Why? Simply because if you are functioning at peak performance that means your body is working at its best which also means you are going to live longer. Don't get lost in some edge case where some extreme whackjob is starving themselves to death in a corner!
+
+So, how do we measure longevity? How do we get this single top line compass? It depends how good a measure you want, but basically if you look like a young person then you are a young person. 
+
+To create optimal defaults, all the tools, and all the information exist, what we really need is simply a curated guide from someone we trust. That's this manual and will be covered by the remainder.
+
+## The System
+
+All of this is best interpreted through the lens of your own genetics as a one time test. This is a must.
+| DNA (one time) | Whole Genome | Nebula |
+
+### Overall Aging
+| Measure | Method | **Vendor** | Notes |
+| --- | --- | --- | --- |
+| Biological Age | Multi-omic | TruAge |
+| Pace of Aging | Dunedin PACE | TruAge | 
+
+Why DNA? To uncover hidden risk factors and constraints
+Why Biological Age? See where you are.
+Why Pace? See where you are going.
+Why Environmental Toxins? Microplastics have been found in 77% of human blood samples, 100% of placentas examined, and brain concentrations have risen 50% in just eight years
+
+### Metabolomics
+| Metabolomics | Blood panel | TruHealth & Ulta Lab |  
+
+Why two tests for Metabolomics? TruHealth infers your omics from epigenetics while a standard panel measures it directly. The former is good for stable trends while the later is good for measured values in that moment. They should be viewed in tandem since a single blood test can have noise.
+
+### Microbiome
+| Microbiome | Feces RNA | Biomesight |
+
+Why biome? everything that goes into you is filtered by trillions of bacterial symbiotes. If they are in a bad state, lack diversity, then your gut and skin will leak and be in a bad state. If those are in a bad state, your entire body is going to be in a bad state. You cannot discuss health without considering your microbiome, these bacteria are the gateway to the body.
+
+### Pollution Load
+| Environmental Toxins | Blood | TruHealth & PlasticTox |
+
+### Mechanical Age
+
+| Measure | Method |
+| --- | --- |
+| Body Composition | Scale |
+| Movement Intensity | Wearable |
+| Movement Volume | Wearable |
+| Movement Variety | Wearable |
+| Movement Frequency | Wearable |
+| V02 Max | Wearable |
+| RHR | Wearable |
+| Posture | TBD |
+| HRV | Wearable |
+
+### Emotional State
+| Measure | Method |
+| --- | --- |
+| Smiles | Habitat |
+| Play | Habitat |
+| Positive Social | Habitat |
+
+### Sleep Age
+| Measure | Method |
+| --- | --- |
+| REM | Wearable |
+| Deep Sleep | Wearable |
+| Onset | Wearable |
+| Duration | Wearable |
+| Consistency | Wearable |
+
+### Cognitive Age
+
+This one is difficult because it requires a task difficulty you can repeat to measure against but where learning doesn't take effect.
+
+## The Proof

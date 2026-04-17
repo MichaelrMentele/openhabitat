@@ -1,0 +1,32 @@
+---
+title: Laundry
+---
+
+# Linens
+
+- Towels
+
+# Shower
+
+- Water Filtration
+- Soap, Shampoo, Conditioner
+
+# Bath
+
+- Salt
+- Water Filtration
+- Remote Controlled
+
+# Sauna
+
+# Light
+
+# Tooth Brush
+
+# Skin Products
+
+- Towels
+- Hair
+- Red light mask
+
+# Rugs

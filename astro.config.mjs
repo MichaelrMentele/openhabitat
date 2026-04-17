@@ -6,19 +6,36 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'OpenHabitat',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
+				{ label: 'Overview', slug: 'overview' },
 				{
-					label: 'Guides',
+					label: 'You',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'Body', slug: 'you/body' },
+						{
+							label: 'Rhythms',
+							autogenerate: { directory: 'you/rhythms' },
+						},
+						{
+							label: 'Behaviors',
+							autogenerate: { directory: 'you/behaviors' },
+						},
 					],
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Habitat',
+					items: [
+						{
+							label: 'Systems',
+							autogenerate: { directory: 'habitat/systems' },
+						},
+						{
+							label: 'Spaces',
+							autogenerate: { directory: 'habitat/spaces' },
+						},
+					],
 				},
 			],
 		}),
