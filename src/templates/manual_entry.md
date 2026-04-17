@@ -1,7 +1,3 @@
----
-title: Foods
----
-
 ## Problem
 - why should we care?
 - what is this costing us?
