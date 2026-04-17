@@ -3,23 +3,26 @@ title: Bedroom
 ---
 
 import SleepTargets from '~/partials/sleep-targets.mdx';
+import { Aside } from '@astrojs/starlight/components';
 
 ## Problem
 
-The most important space in your house is the bedroom. 
+The most important space in your house is the bedroom.
 
 Why? Sleep is where all the gains are made:
 - Learning: You do not actually learn during the day, you learn at night
 - Recovery: Your muscles and tissues don't grow during the day, they grow when you rest
 - Pollution may not immediately impact your sleep but it will impact your longevity. The bedroom is where you are most vulnerable for longest.
 
-In short, poor sleep is equivalent to poor performance in everything and thus a poorer life. 
+In short, poor sleep is equivalent to poor performance in everything and thus a poorer life.
 
 Sadly, about half get poor sleep and the vast majority are not getting optimal sleep.
 
-For an accessible accounting: Why We Sleep is excellent:
-- [Master Class video ](https://www.masterclass.com/classes/matthew-walker-teaches-the-science-of-better-sleep?campaignid=23048575900&adgroupid=189688357390&adid=739722620137&utm_term=get%20better%20sleep&utm_campaign=%5BMC%5D+%7C+Search+%7C+NonBrand+%7C+Consolidated_Keywords_BM_EM_PM+%7C+All+%7C+EN+%7C+tCPA+%7C+EG&utm_source=google&utm_medium=search&hsa_acc=9801000675&hsa_cam=23048575900&hsa_grp=189688357390&hsa_ad=739722620137&hsa_src=g&hsa_tgt=kwd-132592095&hsa_kw=get%20better%20sleep&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23048575900&gbraid=0AAAAADjLLoGimtAVIh7bxi_DFAQYr4Jl5&gclid=CjwKCAjwtIfPBhAzEiwAv9RTJrPEQ8f10WBT2zdt5wByH2MBkGf_Hd7-aAQsrgu2DisTVheerY6ccRoChbIQAvD_BwE)
-- [Audible](https://www.audible.com/pd/Why-We-Sleep-Audiobook/B0752ZQR33?ipRedirectOverride=true&overrideBaseCountry=true&bp_o=true&language=en_US&source_code=GO1OR72005052591LM&gclsrc=aw.ds&gad_source=1&gad_campaignid=23325953706&gbraid=0AAAAABID8QNGxavF17cDz9qXZsl6OjxS7&gclid=CjwKCAjwtIfPBhAzEiwAv9RTJta_13vpny0QRTDqU4pPb_n2hkTchxWPU3Q6sHVHXvykZi5BfY7yIhoCs1AQAvD_BwE)
+<Aside type="tip" title="Further reading">
+Matthew Walker's *Why We Sleep* is the most accessible accounting.
+- [MasterClass](https://www.masterclass.com/classes/matthew-walker-teaches-the-science-of-better-sleep)
+- [Audible](https://www.audible.com/pd/Why-We-Sleep-Audiobook/B0752ZQR33)
+</Aside>
 
 ## Goal
 
@@ -31,44 +34,41 @@ Targets for perfect sleep (canonical definitions in [Body › Sleep Quality](/yo
 
 ## Gap
 
-Nearly any residential bedroom you walk into will have:
-- toxic air from toxic furnishing, blankets, and pillows
-- bad light 
-- bad temp
-- bad noise 
-- excess CO2 buildup
+Nearly any residential bedroom you walk into will fail on:
 
-The second problem of course is that good sleep is invisible to most. How do you know you had it? By how you feel waking up? Your feelings aren't calibrated to know whether your sleep today was better than 100 days ago. You can't track your time to fall asleep because you are unconcious when it happens. 
+- **Air** — toxic offgassing from furnishings, blankets, and pillows ([Air › Problem](/habitat/systems/air/#problem))
+- **Temp** — no targetted regulation overnight
+- **Sound** — traffic, barking dogs, pets nails clacking on hardwood, partners, HVAC
+- **Light** — proch lights, streetlights, device LEDs
+- **CO2** — 1,500–3,000 ppm buildup overnight behind a closed door
 
-The studies of our own inability to measure ourselves when sleep deprives are well proven. Those who are sleep deprived do not believe they are degraded even though they drive as bad as someone a few beers in.
+The second problem is that good sleep is invisible to most. How do you know you had it? By how you feel waking up? Your feelings aren't calibrated to know whether your sleep today was better than 100 days ago. You can't track your time to fall asleep because you are unconcious when it happens.
+
+The studies of our own inability to measure ourselves when sleep deprived are well proven. Those who are sleep deprived do not believe they are degraded even though they drive as bad as someone a few beers in.
 
 ## Solution
 
-A bedroom is a dark cave you go to sleep in, it doesn't need expansive windows that your neighbors porch light shines through at night, and that barking dog penetrates. It needs to be the perfect temp, pitch black, perfect air, and sound proof.
+A bedroom is a dark cave you go to sleep in. It doesn't need expansive windows that your neighbor's porch light shines through at night, and that barking dog penetrates. It needs to be the perfect temp, pitch black, perfect air, and sound proof.
 
-Air Control:
-- CADR over XYZ
+Targets, mirrored against the Gap axes:
 
-Temp Control:
-- Either air is [OPTIMAL TEMP] or direct cooling of the body
-
-Sound Control: 
-- Deafen or smooth discordant noises
-
-Light Control: 
-- Eliminate literally all light sources in room
-- Blackout all curtains
+- **Air** — hit the [canonical air targets](/habitat/systems/air/#goal); filtration sized for ≥5 ACH at room volume.
+- **Temp** — 65–68°F (18–20°C) at body surface; direct cooling beats ambient control.
+- **Sound** — <30 dB ambient at pillow. Deaden discordant noise or mask with pink noise. See [Systems › Sound](/habitat/systems/sound/).
+- **Light** — <1 lux at pillow across all wavelengths. See [Systems › Light](/habitat/systems/light/) and [Systems › Circadian](/habitat/systems/circadian/).
 
 ---
 
 ## System
 
-Measurement: Eightsleep Pod
-Temp Control: Eightsleep
-Sound Control: 
-Light Control: 
-- Eliminate literally all light sources in room
-- Blackout all curtains
+| Axis | Product | Target |
+| --- | --- | --- |
+| Air | `TODO` — HEPA + activated carbon, CADR sized to room | PM2.5 <5 µg/m³ |
+| Temp | Eightsleep Pod | 65–68°F at body |
+| Sound | `TODO` — white/pink noise machine; acoustic panels if needed | <30 dB ambient |
+| Light | Blackout curtains; cover or remove all device LEDs | <1 lux at pillow |
+| CO2 | `TODO` — HRV/ERV, cracked window, or open door | <800 ppm |
+| Measurement | Eightsleep Pod (sleep); Awair or similar (air + CO2); lux meter (one-time verify) | — |
 
 ## Deploy
 
