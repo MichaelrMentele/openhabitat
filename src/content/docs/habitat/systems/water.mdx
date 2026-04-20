@@ -1,33 +1,38 @@
 ---
 title: Water
-draft: true
+description: Getting whole home water setup
 ---
 
 import { Image } from 'astro:assets';
 import { Aside } from '@astrojs/starlight/components';
-import waterContaminants from '~/assets/water-hazard.png';
+import waterContaminants from '~/assets/water-hazard.jpg';
 
 
 ## Problem
 
 <Image src={waterContaminants} alt="Illustration of a water glass contaminated with arsenic, germs, nitrates, rocket fuel, lead and copper, and disinfection byproducts." /> 
 
-Do you know whats in your water? If you don't, you are not alone, almost no one does. Water is something we take for granted, it's been a foundation of civilization since man stacked bricks together.
+Do you know whats in your water? If you don't, you are not alone, almost no one does. Water is something we take for granted. With good reason! It's been a foundation of civilization since man stacked bricks together.
 
-Yet, despite being thousands of years old, water treatment is contaminated with all sorts of poisons, heavy metals, chemicals, plastics, and even drugs. How can this be? Simple, city water was designed decades ago and it was not designed to be optimal, it was designed to prevent bacterial infections that might kill you today. It meets the lowest possible bar for civilization.
+Yet, despite being thousands of years old, water treatment is contaminated with all sorts of poisons, heavy metals, chemicals, plastics, and even drugs. 
 
-US infrastructure is ancient and even crumbling, across the board, including water. The [American Society of Civil Engineers publishes grades every four years](https://infrastructurereportcard.org/). Our latest scorecard for water (2025): 
+How can this be? Simple, city water was designed decades ago and it was not designed to be optimal. It was designed to prevent bacterial infections that might kill you today and is a bare step up from aquaducts Romans built.
+
+Don't believe me? You don't have too! 
+
+The governement and a bunch of groups already say how terrible our water is for me.
+
+1. The [American Society of Civil Engineers publishes grades every four years](https://infrastructurereportcard.org/). Our latest scorecard for water (2025): 
 - drinking water **C-** 
 - wastewater **D+**
 
-Same grades since 2017 — no real movement. State-by-state breakdowns too. [infrastructurereportcard.org](https://infrastructurereportcard.org/).
+2. The Environmental Protection Agency say 20-30% of water utilities don't even comply with their bare bone guidelines. EPA SDWIS data and says ~77 million Americans (≈25% of the US population) were served by community water systems that violated the Safe Drinking Water Act at least once in 2015. And like I said, the infrastructure hasn't changed since then.
 
-20-30% of water utilities don't even comply with the bare bone guidelines set by the EPA, let alone "optimal" water
-
-
-The Environmental Working Group (EWG) has stricter health-based guidelines and **pretty much every US utility** has at least one contaminant above these. EWG's 2019 Tap Water Database analysis of ~50,000 systems found ~93% had detected at least one contaminant above their guidelines.
+3. The Environmental Working Group (EWG) has stricter health-based guidelines and **pretty much every US utility** has at least one contaminant above these. EWG's 2019 Tap Water Database analysis of ~50,000 systems found ~93% had detected at least one contaminant above their guidelines.
 
 You can check your area with their [tap water database](https://www.ewg.org/tapwater/system.php?pws=TX2270001). It won't tell you what is coming into your home exactly but it'll give you a baseline for your area. Why? Miles of pipe and pump stations can sit between the treatment plant and your tap. These pipes are often decades old — or, worse, brand new and still leaching material into the water.
+
+Make no mistake our water is seriously fucked up. I've tested mine and I live in one of the techiest and richest cities in the world.
 
 Here is the kind of stuff that could easily be in your water:
 
@@ -43,7 +48,13 @@ Here is the kind of stuff that could easily be in your water:
 
 **Minerals at excess** — not toxic per se, but Austin has hard water that affects everything downstream.
 
-When you start talking about "optimal" for longevity and "perfect" water in the US... we know it doesn't exist, even putting the above aside, because every municipality puts disinfectants in their water.
+When you start talking about "optimal" for longevity and "perfect" water in the US... we know it doesn't exist, even putting the above aside, every municipality puts disinfectants in their water. Make no mistake, tap water is trash water. 
+
+Estimating the cost of this to our society is... difficult. If you just look at direct health issues it's on the order of 50 billion / year. Not so bad for the US. However, when you think about reduction in health span, intangibles like cognitive impairment, chronic disease, and view it as a contributing factor, its plausible to estimate on the order of 1 trillion / year. 
+
+That's a staggering number. You'd think that we'd upgrade water everywhere as an investment but we don't do ambitious projects anymore. 
+
+Many will write these facts off, but it's not all bad. It means you and me get an IQ point advantage and get our lawns mowed for cheap.
 
 ## Goal
 
@@ -58,8 +69,8 @@ Putting numbers to it, something like:
 | Magnesium | 20–50 mg/L |
 | Bicarbonate | 50–200 mg/L |
 | pH | 7.0–8.0 |
-| Sodium | <20 mg/L |
-| Total Organic Carbon (TOC) | <0.5 mg/L |
+| Sodium | ≤20 mg/L |
+| Total Organic Carbon (TOC) | ≤0.5 mg/L |
 | All other contaminants (PFAS, DBPs, metals, microplastics, fluoride, pharma) | Non-detect |
 
 <Aside type="tip" title="Why these targets">
@@ -68,8 +79,8 @@ Putting numbers to it, something like:
 - **Magnesium 20–50 mg/L** — most populations are Mg-deficient; tap water is a meaningful contribution. Hard-water epidemiology consistently associates higher dietary magnesium with lower cardiovascular mortality (Catling et al., *J Public Health* 2008).
 - **Bicarbonate 50–200 mg/L** — buffers stomach acid load and supports systemic pH. Naturally present in mineral waters.
 - **pH 7.0–8.0** — slightly alkaline, matches most spring waters and won't corrode plumbing or irritate gut.
-- **Sodium <20 mg/L** — most cardiovascular guidelines cap drinking-water sodium here; you get plenty from food.
-- **TOC <0.5 mg/L** — proxy for the dissolved-organics load (precursors that become disinfection byproducts when chlorinated, plus pharmaceutical residues). Lab-grade water targets <0.1; tap water often runs 1–4 mg/L.
+- **Sodium ≤20 mg/L** — most cardiovascular guidelines cap drinking-water sodium here; you get plenty from food.
+- **TOC ≤0.5 mg/L** — proxy for the dissolved-organics load (precursors that become disinfection byproducts when chlorinated, plus pharmaceutical residues). Lab-grade water targets ≤0.1; tap water often runs 1–4 mg/L.
 - **Non-detect for everything else** — PFAS, DBPs, heavy metals, microplastics, fluoride, pharma. There's no "safe low dose" for a chronic exposure to a mixture you didn't consent to.
 
 This is stricter than EWG health guidelines on the contaminant side and informed by spring-water chemistry on the mineral side. No governing body labels this "perfect" — it's the de-facto longevity-optimization target: RO strip, then minerals back.
@@ -95,14 +106,24 @@ This will get our drinking water to our goal metrics though we will need to supp
 
 ## System
 
+Luckily fixing your water is simple. The hardest part is remembering to change the filters every year.
+
+### Bare Minimum
 1. [Look up your tap water](https://www.ewg.org/tapwater/)
-1. [Tap Score Advanced City Test](https://mytapscore.com/products/advanced-city-water-test)
-1. [Whole Home Filter](https://www.theperfectwater.com/home-master-filter-create-your-own.html)
-1. [Under Sink RO](https://www.theperfectwater.com/home-master-hydroperfection-reverse-osmosis-water-filtration-system.html)
+1. [Install a Kitchen Sink Filtration System](https://www.theperfectwater.com/home-master-hydroperfection-reverse-osmosis-water-filtration-system.html)
+
+### Recommended
+In addition to the minimum we personally recommend:
+1. [Testing your tap water yourself](https://mytapscore.com/products/advanced-city-water-test)
+1. [Buying a whole home filter](https://www.theperfectwater.com/home-master-filter-create-your-own.html)
 
 Why test if you can look it up? It's worth knowing exactly what comes into your tap since it has to pass through potentially miles of pipe and multiple pump stations to reach your faucet. 
 
+Why a whole home filter? Because you also get polluted when you shower or bathe or brush your teeth. Nothing like choloform gas for a healthy body! Bad water impacts skin health, hair, and general health.
+
 ## Proof
 We run our own RO system and have tested the difference at the tap from theperfectwater.com 
+
+TODO: pending total table of results
 
 There are likely other RO systems out their just as good this is one we happened to find a few years ago and was recommended by a friend.
