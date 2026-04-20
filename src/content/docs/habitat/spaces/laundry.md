@@ -1,5 +1,6 @@
 ---
 title: Laundry
+draft: true
 ---
 
 # Linens

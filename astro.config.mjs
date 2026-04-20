@@ -9,7 +9,8 @@ export default defineConfig({
 			title: 'OpenHabitat',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
-				{ label: 'Overview', slug: 'overview' },
+        { label: 'Introduction', slug: 'intro' },
+				{ label: 'About', slug: 'about'},
 				{
 					label: 'You',
 					items: [

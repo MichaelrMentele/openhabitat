@@ -1,6 +1,15 @@
 ---
 title: Sound
+draft: true
 ---
+
+| **Category** | **Metric** | **Target (Sleep)** | **Target (Office)** | **Why it Matters** |
+| --- | --- | --- | --- | --- |
+| **Ambient Noise** | Continuous dB | **< 30 dBA** | **< 45 dBA** | Prevents micro-arousals; maintains "Deep Work" focus. |
+| **Peak Noise** | Lmax (Sudden) | **< 45 dBA** | **< 60 dBA** | Sudden spikes (sirens/thumps) trigger instant cortisol. |
+| **Low Frequency** | 20Hz – 250Hz | **Minimal** | **Controlled** | The "Hum" from AC or traffic; causes subtle systemic fatigue. |
+| **Vibration** | Peak Velocity | **< 0.1 mm/s** | **< 0.2 mm/s** | Detectable by skin receptors; prevents deep muscle relaxation. |
+| **Sound Color** | Spectrum | **Pink Noise** | **Brown Noise** | Masks external spikes while supporting brain-wave stability. |
 
 ## Problem
 - why should we care?

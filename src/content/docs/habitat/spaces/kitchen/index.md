@@ -1,5 +1,6 @@
 ---
-title: Goods
+title: Kitchen
+draft: true
 ---
 
 ## Problem

@@ -1,5 +1,6 @@
 ---
-title: Bathroom
+title: Textiles
+draft: true
 ---
 
 ## Problem

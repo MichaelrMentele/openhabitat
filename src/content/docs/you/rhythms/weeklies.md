@@ -1,5 +1,6 @@
 ---
 title: Weeklies
+draft: true
 ---
 
 # Morning

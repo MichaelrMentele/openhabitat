@@ -1,5 +1,6 @@
 ---
 title: Dinner
+draft: true
 ---
 
 | **Magnesium Glycinate** (chelated) | Pure Encapsulations or Nutricost | 200mg elemental Mg | Before bed | Systemic magnesium for 300+ enzymatic reactions. Supports hormone production, muscle recovery, stress response. |

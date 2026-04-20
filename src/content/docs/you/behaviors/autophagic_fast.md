@@ -1,5 +1,6 @@
 ---
 title: Autophagic Fast
+draft: true
 ---
 
 | Supplement | Dose | Timing | Why |

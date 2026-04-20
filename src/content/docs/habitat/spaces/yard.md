@@ -1,5 +1,6 @@
 ---
 title: Yard
+draft: true
 ---
 
 ## Problem

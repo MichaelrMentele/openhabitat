@@ -1,5 +1,6 @@
 ---
 title: Office
+draft: true
 ---
 
 # Systems
