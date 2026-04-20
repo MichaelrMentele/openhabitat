@@ -38,6 +38,10 @@ export default defineConfig({
 						},
 					],
 				},
+				{
+					label: 'Case Studies',
+					autogenerate: { directory: 'case-studies' },
+				},
 			],
 		}),
 	],
