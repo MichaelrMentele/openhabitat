@@ -3,13 +3,14 @@ title: Light
 draft: true
 ---
 
-import LightTargets from '~/partials/light-targets.mdx';
+{/* TODO: save image to src/assets/light-circadian.png and uncomment:
 import { Image } from 'astro:assets';
 import circadianLight from '~/assets/light-circadian.png';
+*/}
 
 ## Problem
 
-<Image src={circadianLight} alt="Diagram showing daytime activation vs nighttime restoration: bright light activates ipRGCs → SCN → pineal gland, suppressing melatonin and raising cortisol; darkness inactivates ipRGCs, allowing melatonin and growth hormone to rise for sleep and cellular repair." />
+{/* TODO: <Image src={circadianLight} alt="Diagram showing daytime activation vs nighttime restoration: bright light activates ipRGCs → SCN → pineal gland, suppressing melatonin and raising cortisol; darkness inactivates ipRGCs, allowing melatonin and growth hormone to rise for sleep and cellular repair." /> */}
 
 - why should we care?
 - what is this costing us?
@@ -19,7 +20,12 @@ import circadianLight from '~/assets/light-circadian.png';
 
 Light is the master signal for your circadian clock. Match intensity and spectrum to the time of day:
 
-<LightTargets />
+| Time of Day | Visual Lux | Melanopic EDI | Color Temp (CCT) | Biological Outcome |
+| --- | --- | --- | --- | --- |
+| Morning (Waking) | 500–1,000 lx | >250 lx | 5000K–6500K | Anchors the clock; resets the 16-hour sleep timer. |
+| Daytime (Work) | 300–500 lx | >150 lx | 4000K–5000K | Maintains focus; suppresses midday melatonin. |
+| Evening (−3h) | 50–100 lx | <10 lx | 1800K–2400K | Wind-down signal; triggers melatonin onset. |
+| Night (Sleep) | <1 lx | <1 lx | Amber / Red | Zero blue light. Maximizes deep sleep (N3). |
 
 ## Gap
 - what is challenging about getting to the ideal future?

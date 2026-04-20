@@ -69,23 +69,23 @@ Companies and nations only do what their people buy into. Capitalism is the true
 
 ## References
 
-[^2]: Bratsberg & Rogeberg, "Flynn effect and its reversal are both environmentally caused," *PNAS* (2018).
-[^3]: American Cancer Society, *Colorectal Cancer Facts & Figures 2023–2025*.
-[^4]: CDC NHANES, obesity prevalence 1980–2020.
-[^5]: Capogrosso et al., "One patient out of four with a new diagnosis of erectile dysfunction is a young man," *Journal of Sexual Medicine* (2013).
-[^6]: Levine et al., "Temporal trends in sperm count: a systematic review and meta-regression analysis," *Human Reproduction Update* (2022).
-[^7]: CMS National Health Expenditure Accounts.
-[^8]: SAMHSA, National Survey on Drug Use and Health.
-[^9]: WHO, Healthy Life Expectancy (HALE) data.
-[^10]: CDC NHANES biomonitoring, PFAS detection in US population.
-[^11]: Smalling et al., *Environment International* (2023), first nationwide USGS tap water survey.
-[^12]: Ragusa et al., "Plasticenta: First evidence of microplastics in human placenta," *Environment International* (2021).
-[^13]: Leslie et al., "Discovery and quantification of plastic particle pollution in human blood," *Environment International* (2022).
-[^14]: Nihart et al., "Bioaccumulation of microplastics in decedent human brains," *Nature Medicine* (2024).
-[^15]: WHO, *Ambient Air Quality Database* (2022).
-[^16]: CDC NHANES biomonitoring, BPA detection.
-[^17]: OECD, *Global Plastics Outlook: Policy Scenarios to 2060* (2022).
-[^18]: US GAO reports on TSCA; EPA new chemical review process.
-[^19]: EWG; EU Cosmetics Regulation 1223/2009.
-[^20]: Mandsager et al., "Association of Cardiorespiratory Fitness With Long-term Mortality Among Adults Undergoing Exercise Treadmill Testing," *JAMA Network Open* (2018).
-[^21]: Sarcopenia and surgical/ICU outcomes — meta-analyses; e.g., Meyer et al. (2022).
+[^2]: Bratsberg & Rogeberg, ["Flynn effect and its reversal are both environmentally caused,"](https://pmc.ncbi.nlm.nih.gov/articles/PMC6042097/) *PNAS* (2018).
+[^3]: [American Cancer Society, *Colorectal Cancer Facts & Figures 2023–2025*](https://www.cancer.org/research/cancer-facts-statistics/colorectal-cancer-facts-figures.html).
+[^4]: [CDC NHANES, adult obesity prevalence trends](https://www.cdc.gov/nchs/products/databriefs/db508.htm).
+[^5]: Capogrosso et al., ["One patient out of four with a new diagnosis of erectile dysfunction is a young man,"](https://doi.org/10.1111/j.1743-6109.2012.02982.x) *Journal of Sexual Medicine* (2013).
+[^6]: Levine et al., ["Temporal trends in sperm count: a systematic review and meta-regression analysis,"](https://doi.org/10.1093/humupd/dmac035) *Human Reproduction Update* (2022).
+[^7]: [CMS National Health Expenditure Accounts](https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data).
+[^8]: [SAMHSA, National Survey on Drug Use and Health](https://www.samhsa.gov/data/data-we-collect/nsduh-national-survey-drug-use-and-health).
+[^9]: [WHO, Healthy Life Expectancy (HALE) data](https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates).
+[^10]: [CDC NHANES biomonitoring, PFAS detection in US population](https://www.cdc.gov/exposurereport/index.html).
+[^11]: Smalling et al., ["Per- and polyfluoroalkyl substances (PFAS) in United States tapwater,"](https://doi.org/10.1016/j.envint.2023.108033) *Environment International* (2023).
+[^12]: Ragusa et al., ["Plasticenta: First evidence of microplastics in human placenta,"](https://doi.org/10.1016/j.envint.2020.106274) *Environment International* (2021).
+[^13]: Leslie et al., ["Discovery and quantification of plastic particle pollution in human blood,"](https://doi.org/10.1016/j.envint.2022.107199) *Environment International* (2022).
+[^14]: Nihart et al., ["Bioaccumulation of microplastics in decedent human brains,"](https://www.nature.com/articles/s41591-024-03453-1) *Nature Medicine* (2024).
+[^15]: [WHO, *Ambient Air Quality Database* (2022)](https://www.who.int/data/gho/data/themes/air-pollution/who-air-quality-database).
+[^16]: [CDC NHANES biomonitoring, BPA detection](https://www.cdc.gov/exposurereport/index.html).
+[^17]: [OECD, *Global Plastics Outlook: Policy Scenarios to 2060* (2022)](https://www.oecd.org/environment/plastics/).
+[^18]: [US GAO reports on TSCA; EPA new chemical review process](https://www.gao.gov/products/gao-23-105814).
+[^19]: [EU Cosmetics Regulation 1223/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R1223); [EWG cosmetics database](https://www.ewg.org/skindeep/).
+[^20]: Mandsager et al., ["Association of Cardiorespiratory Fitness With Long-term Mortality Among Adults Undergoing Exercise Treadmill Testing,"](https://doi.org/10.1001/jamanetworkopen.2018.3605) *JAMA Network Open* (2018).
+[^21]: Sarcopenia and surgical/ICU outcomes — see e.g. Knoedler et al., ["The surgical patient of yesterday, today, and tomorrow — a time-trend analysis from 2008 to 2023 utilizing 5,555,308 cases,"](https://doi.org/10.1097/JS9.0000000000001209) *International Journal of Surgery* (2024); plus broader sarcopenia meta-analyses.

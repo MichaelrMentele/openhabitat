@@ -3,65 +3,106 @@ title: Water
 draft: true
 ---
 
-import WaterTargets from '~/partials/water-targets.mdx';
 import { Image } from 'astro:assets';
-import waterContaminants from '~/assets/water-contaminants.png';
+import { Aside } from '@astrojs/starlight/components';
+import waterContaminants from '~/assets/water-hazard.png';
+
 
 ## Problem
 
-<Image src={waterContaminants} alt="Illustration of a water glass contaminated with arsenic, germs, nitrates, rocket fuel, lead and copper, and disinfection byproducts." />
+<Image src={waterContaminants} alt="Illustration of a water glass contaminated with arsenic, germs, nitrates, rocket fuel, lead and copper, and disinfection byproducts." /> 
 
-The core problem is that municipal water treatment was designed to prevent acute illness (cholera, dysentery) — it's optimized for not killing you today, not for minimizing chronic low-dose exposure over decades.
+Do you know whats in your water? If you don't, you are not alone, almost no one does. Water is something we take for granted, it's been a foundation of civilization since man stacked bricks together.
 
-This chronic exposure to forever chemicals, metals, and plastics won't kill you today, but it will make you tireder, stupider, sicker, cancerous, and demented over time.
+Yet, despite being thousands of years old, water treatment is contaminated with all sorts of poisons, heavy metals, chemicals, plastics, and even drugs. How can this be? Simple, city water was designed decades ago and it was not designed to be optimal, it was designed to prevent bacterial infections that might kill you today. It meets the lowest possible bar for civilization.
 
-**Heavy metals** (lead, arsenic, cadmium, mercury, chromium-6) are the big ones. They bioaccumulate — your body doesn't efficiently excrete them, so low-level chronic exposure builds up over years. Lead is neurotoxic at any concentration (there's no safe level). Arsenic is a carcinogen. These leach from pipes, solder joints, and natural geology. Austin confirmed no lead service lines in 2024, but that doesn't rule out lead solder in pre-1986 homes or brass fixtures.
+US infrastructure is ancient and even crumbling, across the board, including water. The [American Society of Civil Engineers publishes grades every four years](https://infrastructurereportcard.org/). Our latest scorecard for water (2025): 
+- drinking water **C-** 
+- wastewater **D+**
 
-**Disinfection byproducts** (THMs, haloacetic acids) are the tradeoff of chlorination. Austin uses chloramine, which reacts with organic matter in the water to form compounds like bromodichloromethane and chloroform. These are associated with increased cancer risk and reproductive issues. Austin's levels are within legal limits but 100–200x above EWG's health-based guidelines.
+Same grades since 2017 — no real movement. State-by-state breakdowns too. [infrastructurereportcard.org](https://infrastructurereportcard.org/).
 
-**PFAS** ("forever chemicals") don't break down in the environment or in your body. They accumulate in organs and blood, and are linked to cancer, thyroid disruption, immune suppression, and reproductive harm. Austin's levels tested low under UCMR 5, but detection limits and testing frequency are still evolving.
+20-30% of water utilities don't even comply with the bare bone guidelines set by the EPA, let alone "optimal" water
 
-**Microplastics and pharmaceuticals** are emerging concerns that aren't well-regulated or routinely tested. Municipal treatment wasn't designed to remove them.
 
-**Minerals at excess** — not toxic per se, but Austin has hard water (calcium, magnesium) that affects everything downstream.
+The Environmental Working Group (EWG) has stricter health-based guidelines and **pretty much every US utility** has at least one contaminant above these. EWG's 2019 Tap Water Database analysis of ~50,000 systems found ~93% had detected at least one contaminant above their guidelines.
+
+You can check your area with their [tap water database](https://www.ewg.org/tapwater/system.php?pws=TX2270001). It won't tell you what is coming into your home exactly but it'll give you a baseline for your area. Why? Miles of pipe and pump stations can sit between the treatment plant and your tap. These pipes are often decades old — or, worse, brand new and still leaching material into the water.
+
+Here is the kind of stuff that could easily be in your water:
+
+**Heavy metals** (lead, arsenic, cadmium, mercury, chromium-6) are the big ones. They bioaccumulate — so low-level chronic exposure builds up over years. Lead is neurotoxic at any concentration (there's no safe level). Arsenic is a carcinogen. These leach from pipes, solder joints, and natural geology.
+
+**Disinfection byproducts** (THMs, haloacetic acids, chloramine). Austin uses chloramine, which reacts with organic matter in the water to form compounds like bromodichloromethane and chloroform. These are associated with increased cancer risk and reproductive issues. Austin's levels are within legal limits but 100–200x above EWG's health-based guidelines.
+
+**PFAS** ("forever chemicals") don't break down in the environment or in your body. They accumulate in organs and blood, and are linked to cancer, thyroid disruption, immune suppression, and reproductive harm. 
+
+**Pharmaceuticals** Detection is widespread.** USGS surveys consistently find pharmaceuticals in 80%+ of sampled US streams (which become source water). Common detects: synthetic estrogens (oral contraceptives), SSRIs (Prozac, sertraline), antibiotics, beta-blockers, NSAIDs (ibuprofen), caffeine, antidepressants.
+
+**Microplastics** are emerging concerns that aren't well-regulated or routinely tested. Municipal treatment wasn't designed to remove them.
+
+**Minerals at excess** — not toxic per se, but Austin has hard water that affects everything downstream.
+
+When you start talking about "optimal" for longevity and "perfect" water in the US... we know it doesn't exist, even putting the above aside, because every municipality puts disinfectants in their water.
 
 ## Goal
 
-Ideal water is water from a pristine mountain channel. Rich with minerals, with no contaminants.
+Ideal water is something like water from a pristine mountain channel. Rich with minerals, no contaminants, no bacteria, no parasites, no poisons, no plastics, no nonsense. 
 
-The ideal would be all the water you use for drinking and for bathing is like this.
+Putting numbers to it, something like:
 
-<WaterTargets />
+| Spec | Target |
+| --- | --- |
+| Total Dissolved Solids (TDS) | 50–150 mg/L |
+| Calcium | 30–80 mg/L |
+| Magnesium | 20–50 mg/L |
+| Bicarbonate | 50–200 mg/L |
+| pH | 7.0–8.0 |
+| Sodium | <20 mg/L |
+| Total Organic Carbon (TOC) | <0.5 mg/L |
+| All other contaminants (PFAS, DBPs, metals, microplastics, fluoride, pharma) | Non-detect |
+
+<Aside type="tip" title="Why these targets">
+- **TDS 50–150 mg/L** — sweet spot for hydration without scale or skin issues. Below ~30 mg/L the water actively leaches minerals out of you (one reason ultra-pure RO output isn't optimal as-is). Above ~300 mg/L starts producing scale and dryness. ([WHO 2009: *Calcium and magnesium in drinking-water*](https://www.who.int/publications/i/item/9789241563550))
+- **Calcium 30–80 mg/L** — WHO 2009 recommends ≥20–30 mg/L for cardiovascular benefit. High end approximates premium spring waters (Gerolsteiner ~350 mg/L is overkill but the direction is right).
+- **Magnesium 20–50 mg/L** — most populations are Mg-deficient; tap water is a meaningful contribution. Hard-water epidemiology consistently associates higher dietary magnesium with lower cardiovascular mortality (Catling et al., *J Public Health* 2008).
+- **Bicarbonate 50–200 mg/L** — buffers stomach acid load and supports systemic pH. Naturally present in mineral waters.
+- **pH 7.0–8.0** — slightly alkaline, matches most spring waters and won't corrode plumbing or irritate gut.
+- **Sodium <20 mg/L** — most cardiovascular guidelines cap drinking-water sodium here; you get plenty from food.
+- **TOC <0.5 mg/L** — proxy for the dissolved-organics load (precursors that become disinfection byproducts when chlorinated, plus pharmaceutical residues). Lab-grade water targets <0.1; tap water often runs 1–4 mg/L.
+- **Non-detect for everything else** — PFAS, DBPs, heavy metals, microplastics, fluoride, pharma. There's no "safe low dose" for a chronic exposure to a mixture you didn't consent to.
+
+This is stricter than EWG health guidelines on the contaminant side and informed by spring-water chemistry on the mineral side. No governing body labels this "perfect" — it's the de-facto longevity-optimization target: RO strip, then minerals back.
+</Aside>
 
 ## Gap
 
 1. You cannot rely on the city. Governments have little incentive to care about your optimal biological health — they care about meeting compliance levels.
-2. Compliance levels are often NOT met. Austin city water has 42 contaminants above federal requirements including disinfectants, forever chemicals, and plastics.
 3. Compliance levels are far below optimal.
-4. We have no idea what is actually coming into our body. Miles of pipe and pump stations sit between the treatment plant and your tap. These pipes are often decades old — or, worse, brand new and still leaching material into the water.
+2. Compliance levels are often NOT met.
+4. We have no idea what is actually coming into our body. 
 
 ## Solution
 
 A two-tier model:
 
-1. Whole-home reverse osmosis and remineralization
-2. Drinking water only (under-sink RO)
+1. Whole-home basic filtration
+2. Reverse osmosis and remineralization for drinking water
 
-Reverse osmosis uses a membrane to filter over 99% of remaining particulate — heavy metals, DBPs, PFAS, and microplastics.
+This will get our drinking water to our goal metrics though we will need to supplement magnesium (you have to anyway in most places).
 
 ---
 
 ## System
 
+1. [Look up your tap water](https://www.ewg.org/tapwater/)
 1. [Tap Score Advanced City Test](https://mytapscore.com/products/advanced-city-water-test)
-2. [Whole Home RO](https://www.theperfectwater.com/home-master-filter-create-your-own.html)
-3. [Under Sink RO](https://www.theperfectwater.com/home-master-hydroperfection-reverse-osmosis-water-filtration-system.html)
+1. [Whole Home Filter](https://www.theperfectwater.com/home-master-filter-create-your-own.html)
+1. [Under Sink RO](https://www.theperfectwater.com/home-master-hydroperfection-reverse-osmosis-water-filtration-system.html)
 
-## Deploy
+Why test if you can look it up? It's worth knowing exactly what comes into your tap since it has to pass through potentially miles of pipe and multiple pump stations to reach your faucet. 
 
 ## Proof
+We run our own RO system and have tested the difference at the tap from theperfectwater.com 
 
-### Michael and Bri
-
-- Under-sink deployment
-- `TODO` — pending water test
+There are likely other RO systems out their just as good this is one we happened to find a few years ago and was recommended by a friend.

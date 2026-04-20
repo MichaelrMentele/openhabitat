@@ -1,4 +1,4 @@
 ---
-title: Skincare
+title: Gym
 draft: true
 ---

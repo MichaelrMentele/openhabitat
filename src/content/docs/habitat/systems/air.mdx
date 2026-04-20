@@ -3,13 +3,14 @@ title: Air
 draft: true
 ---
 
-import AirTargets from '~/partials/air-targets.mdx';
+{/* TODO: save image to src/assets/indoor-air-pollution.png and uncomment:
 import { Image } from 'astro:assets';
 import indoorAirPollution from '~/assets/indoor-air-pollution.png';
+*/}
 
 ## Problem
 
-<Image src={indoorAirPollution} alt="Indoor air infographic: 9 of 10 breaths are indoors, indoor air is 2–5x more polluted than outdoors, asthma has increased 600% since 1980, average person breathes 50,000 pollution particles a day." />
+{/* TODO: <Image src={indoorAirPollution} alt="Indoor air infographic: 9 of 10 breaths are indoors, indoor air is 2–5x more polluted than outdoors, asthma has increased 600% since 1980, average person breathes 50,000 pollution particles a day." /> */}
 
 The World Health Organization ranks bad air quality as one of the top five most dangerous risk factors for health. An estimated 3+ million unnecessary deaths occur globally in association with poor air. What about lost time, performance, money, and enjoyment?
 
@@ -43,7 +44,17 @@ Ideal air is equivalent to the air you'd find in a pristine forest:
 - zero chemicals
 - zero synthetic particles
 
-<AirTargets />
+| Measure | Optimal Target | Regulatory Limit | Notes |
+| --- | --- | --- | --- |
+| PM2.5 | <5 μg/m³ | 15 μg/m³ (WHO) | WHO revised down in 2021, optimal is well below |
+| PM0.3 | <1 μg/m³ | no standard | Ultrafine more dangerous, no official limit |
+| TVOC | <100 ppb | 300 ppb (WELL) | WELL is already a "healthy building" standard, optimal is 3x tighter |
+| CO2 | <600 ppm | 1,000 ppm | 600 ppm is outdoor baseline; cognitive performance measurably degrades above 1,000 |
+| HCHO | <10 ppb | 100 ppb (WHO) | RESET standard; most sensitive occupants affected below WHO limit |
+| CO | <1 ppm | 9 ppm (EPA) | No safe level established; minimize as close to zero as possible |
+| NO2 | <10 ppb | 53 ppb (EPA) | WHO revised to 10 ppb in 2021 — EPA hasn't caught up |
+| Humidity | 40–60% RH | no standard | Below 40% increases viral transmission; above 60% promotes mold |
+| Temperature | 68–72°F | no standard | Cognitive performance and sleep quality optimized in this range |
 
 ## Gap
 

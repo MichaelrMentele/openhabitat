@@ -1,4 +1,0 @@
----
-title: Behaviors
-draft: true
----

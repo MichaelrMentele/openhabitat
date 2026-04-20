@@ -14,14 +14,10 @@ export default defineConfig({
 				{
 					label: 'You',
 					items: [
-						{ label: 'Body', slug: 'you/body' },
+						{ label: 'You', slug: 'you' },
 						{
 							label: 'Rhythms',
 							autogenerate: { directory: 'you/rhythms' },
-						},
-						{
-							label: 'Behaviors',
-							autogenerate: { directory: 'you/behaviors' },
 						},
 					],
 				},
@@ -37,10 +33,6 @@ export default defineConfig({
 							autogenerate: { directory: 'habitat/spaces' },
 						},
 					],
-				},
-				{
-					label: 'Case Studies',
-					autogenerate: { directory: 'case-studies' },
 				},
 			],
 		}),
