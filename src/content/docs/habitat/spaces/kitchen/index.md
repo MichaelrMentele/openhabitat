@@ -6,7 +6,6 @@ sidebar:
     variant: caution
 ---
 
-## Problem
 - why should we care?
 - what is this costing us?
 - what is the cause?

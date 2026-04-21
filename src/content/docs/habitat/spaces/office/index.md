@@ -6,7 +6,7 @@ sidebar:
     variant: caution
 ---
 
-# Systems
+## Systems
 
 - Air
 - Light
@@ -15,11 +15,11 @@ sidebar:
 - Floor
 - Furnishing
 
-# Desks
+## Desks
 
-# Chairs
+## Chairs
 
-# Displays
+## Displays
 
 You stare at a monitor for 6-12 hours a day, you better optimize for your eye health
 

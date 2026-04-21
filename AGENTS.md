@@ -157,6 +157,8 @@ Topic pages follow:
 - `## Deploy` — setup + maintenance
 - `## Proof` — evidence the system works (link to measurable outcomes on `/you/`)
 
+**Space pages skip `## Problem`** and open with a lede paragraph directly under the title. The page title (e.g., "Bedroom") plus the first paragraph carries the problem framing — a redundant `## Problem` heading stacked under the title looks awkward. System pages keep `## Problem` since the topic is more abstract.
+
 Other templates:
 - `src/templates/buying_decision.md` — single-product decision pages (What We Were Looking For / Key Directions Explored / What We Selected / Why)
 - `src/templates/case_study.md` — Before / Changes / After

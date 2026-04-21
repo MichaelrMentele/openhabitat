@@ -49,6 +49,13 @@ export default defineConfig({
 						{ label: 'Laundry', slug: 'habitat/spaces/laundry' },
 					],
 				},
+				{
+					label: 'Case Studies',
+					items: [
+						{ label: 'Overview', slug: 'case-studies' },
+						{ label: 'Michael Mentele', slug: 'case-studies/michael-mentele' },
+					],
+				},
 				{ label: 'Give Back', slug: 'give' },
 			],
 		}),

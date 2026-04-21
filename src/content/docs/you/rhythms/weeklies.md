@@ -6,24 +6,24 @@ sidebar:
     variant: caution
 ---
 
-# Morning
+## Morning
 
 - Sprints OR other full body max 1x
 - Full Body Strength 3x OR Upper/Lower/Core 3x
 - Active Recovery 3x: Active Mobility
 
-# Mid Morning
+## Mid Morning
 
 - Z2 Daily (5,000 steps)
 
-# Mid Day
+## Mid Day
 
 - Meditation
 
-# Evening
+## Evening
 
 - Z2 Daily (5,000 steps)
 
-# Before Bed
+## Before Bed
 
 - MFR (foam rolling)

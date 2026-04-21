@@ -15,7 +15,7 @@ Evening (5 PM – 10 PM)	Wind-Down	<10 lx (Amber/Red)	72°F → 69°F	Natural / 
 Night (10 PM – Waking)	Restoration	<1 lx (Total Dark)	65°F – 68°F	Pink Noise (Sleep)	<1.5 V/m (Breaker Off)	Nothing. Fasted state.
 
 
-# Schedule
+## Schedule
 
 - Wake
 - Breakfast
@@ -33,7 +33,7 @@ Night (10 PM – Waking)	Restoration	<1 lx (Total Dark)	65°F – 68°F	Pink Noi
 - Leisure
 - Winddown
 
-# Blocks
+## Blocks
 
 ## Wake
 
