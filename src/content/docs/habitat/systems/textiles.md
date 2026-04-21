@@ -8,7 +8,7 @@ draft: true
 
 Textiles are the **dominant source of microplastic fiber pollution in your indoor air** and one of the most underappreciated chronic-exposure routes in the home. You're in 24/7 contact with them — clothing, bedding, towels, upholstery — and they leak chemicals and particles continuously.
 
-**Microplastic shedding.** Indoor air contains 5–50× more fibers than outdoor air, and roughly a third originate from synthetic textiles.[^1] A single 6 kg load of synthetic clothing releases **>700,000 microfibers per wash**.[^2] These fibers accumulate in household dust and have been detected in human lung tissue at autopsy.[^3]
+**Microplastic shedding.** Synthetic textiles shed fibers continuously through three indoor pathways: **wear** (clothing rubbing against skin and furniture all day releases fibers into the air around you), **dryers** (heated tumbling shreds synthetic fabric — ventless and condenser dryers release directly into the room; vented dryers leak at connections and the lint trap), and **dust resuspension** (fibers settle in carpet, bedding, and upholstery, then re-aerosolize when you walk or sit). The result: indoor air contains 5–50× more fibers than outdoor air, and roughly a third originate from synthetic textiles.[^1] These fibers accumulate in household dust and have been detected in human lung tissue at autopsy.[^3]
 
 **Chemical load embedded in fabric.** 
 - PFAS (stain/water-resistant treatments, performance activewear)
