@@ -1,7 +1,6 @@
 ---
 title: Textiles
 description: Wholesome fabrics — not poisonous ones — against your body 24/7.
-draft: true
 ---
 
 ## Problem
