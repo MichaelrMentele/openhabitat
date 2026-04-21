@@ -20,7 +20,7 @@
 - what's the system?
 - what do I need to buy?
 
-## Deploy
+## Checklist
 - how do I deploy and maintain it?
 
 ## Proof
