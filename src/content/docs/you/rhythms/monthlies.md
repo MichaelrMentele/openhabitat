@@ -1,5 +1,6 @@
 ---
 title: Monthlies
+draft: true
 ---
 
 ## Problem
