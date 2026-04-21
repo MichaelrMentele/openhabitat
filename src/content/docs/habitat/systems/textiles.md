@@ -1,5 +1,6 @@
 ---
 title: Textiles
+description: Snuggling wholesome clothes not poisonous ones.
 draft: true
 ---
 
@@ -24,7 +25,7 @@ We want pristine materials that our body can either:
 1. breakdown 
 2. pass through
 
-In an ideal world that would mean zero sythetic textiles.
+In an ideal world that would mean zero sythetic textiles. 
 
 ## Gap
 
@@ -32,18 +33,27 @@ Its not feasible to test yuor home products yourselves, the cost of doing so is 
 
 ## Solution
 
-The best places to start are the biggest air polluters, why? Your lungs are a direct pass into the blood stream compared to the gut or even the skin. 
+It's simple, use 3rd party tests that guarantee a pristine textile for your home. Use this for ideally all textiles, but at a minimum any textiles you contact with your body.
 
-TODO: numbers here/fact check
+Bare minimum 
+Best → worst (skin-contact items): organic linen > organic cotton > untreated wool > silk > hemp > conventional cotton > bamboo "rayon" > polyester > nylon > acrylic > faux leather > "performance" PFAS-treated
 
-Then we can focus on the areas we spend the most time touching such as bedding and clothing. 
-
-Minimum:
+Recommended certs:
 - OEKO-TEX Standard 100** — tests finished fabric for ~1,000 harmful substances. Most accessible mainstream certification.
 - **GOTS (Global Organic Textile Standard)** — organic fiber + chemical processing limits. Strict.
 
-Optimal:
+Optimal certs:
+- Miniums and
 - **MADE SAFE** — broader safety certification across many product categories.
+
+Suggested prioritization: 
+1. Mattress or cover + bedding** — 8 hrs/day, biggest single swap
+2. **Underwear** — 16+ hrs/day on thin-skin sensitive tissue  
+3. **Pajamas + loungewear** — 8+ hrs/day, hot and sweaty
+4. **Activewear** — sweat amplifies migration; usually PFAS
+5. **Day clothes** — shorter contact but constant
+6. **Upholstery + curtains** — long contact for sit/lie surfaces, slow offgassing
+7. **Towels** — wet contact post-shower (skin barrier weakened)
 
 ---
 
