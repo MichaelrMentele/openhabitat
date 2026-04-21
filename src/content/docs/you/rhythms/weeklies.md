@@ -1,6 +1,9 @@
 ---
 title: Weeklies
-draft: true
+sidebar:
+  badge:
+    text: Outline
+    variant: caution
 ---
 
 # Morning

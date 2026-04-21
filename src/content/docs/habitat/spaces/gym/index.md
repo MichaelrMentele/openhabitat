@@ -1,4 +1,7 @@
 ---
 title: Gym
-draft: true
+sidebar:
+  badge:
+    text: Stub
+    variant: danger
 ---

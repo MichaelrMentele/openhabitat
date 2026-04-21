@@ -1,6 +1,9 @@
 ---
 title: Dailies
-draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: note
 ---
 
 Overview Table

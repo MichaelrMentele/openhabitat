@@ -1,7 +1,10 @@
 ---
 title: Circadian
-draft: true
 description: The timing of the body and how systems & spaces should accomadate across the home.
+sidebar:
+  badge:
+    text: Outline
+    variant: caution
 ---
 
 ## Problem

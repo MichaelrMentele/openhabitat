@@ -1,6 +1,9 @@
 ---
 title: Office
-draft: true
+sidebar:
+  badge:
+    text: Outline
+    variant: caution
 ---
 
 # Systems

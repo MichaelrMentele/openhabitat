@@ -32,7 +32,6 @@ export default defineConfig({
 						{ label: 'Water', slug: 'habitat/systems/water' },
 						{ label: 'Light', slug: 'habitat/systems/light' },
 						{ label: 'Circadian', slug: 'habitat/systems/circadian' },
-						{ label: 'Foods', slug: 'habitat/systems/foods' },
 						{ label: 'Sound', slug: 'habitat/systems/sound' },
 						{ label: 'Textiles', slug: 'habitat/systems/textiles' },
 					],

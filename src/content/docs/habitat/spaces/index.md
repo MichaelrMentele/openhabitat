@@ -1,4 +1,7 @@
 ---
 title: Overview
-draft: true
+sidebar:
+  badge:
+    text: Stub
+    variant: danger
 ---

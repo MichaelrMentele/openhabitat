@@ -1,4 +1,7 @@
 ---
 title: Closet
-draft: true
+sidebar:
+  badge:
+    text: Stub
+    variant: danger
 ---

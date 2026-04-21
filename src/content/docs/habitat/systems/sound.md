@@ -1,7 +1,10 @@
 ---
 title: Sound
 description: Healthy sound across the home.
-draft: true
+sidebar:
+  badge:
+    text: Outline
+    variant: caution
 ---
 
 | **Category** | **Metric** | **Target (Sleep)** | **Target (Office)** | **Why it Matters** |
