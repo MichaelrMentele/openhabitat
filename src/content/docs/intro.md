@@ -1,15 +1,13 @@
 ---
-title: Introduction
+title: Your Life is at Stake
 description: Setting the stage, what the future holds, why you should care, why you should act.
 ---
 
-## Your Life is at Stake
+You are losing 5–10 healthy years, and living a stupider, sicker, poorer, less happy life than you should. This isn't a comparison to the past, this is a comparison to our peers and to our potential.
 
-You are losing 5–10 healthy years, and living a stupider, sicker, poorer, less happy life than you should.
-
-- **Shorter:** US healthy, non-disabled, lifespan runs ~10 years below Australia, Korea, and Japan.[^9]
+- **Shorter:** US healthy, non-disabled, *lifespan runs ~10 years below Australia, Korea, and Japan* [^9] and they aren't even optimal.
 - **Stupider:** Measured IQ has fallen ~1.8 points per decade across developed nations since the 1970s — the "reverse Flynn effect" — after a century of gains.[^2]
-- **Sicker:** Colorectal cancer in adults under 50 has roughly doubled since the early 1990s and is now the leading cancer killer of men under 50.[^3] US obesity climbed from ~14% in 1980 to ~42% in 2020.[^4] We can go on and on here.
+- **Sicker:** Colorectal cancer in adults under 50 has roughly doubled since the early 1990s and is now the leading cancer killer of men under 50.[^3] US obesity climbed from ~14% in 1980 to ~42% in 2020.[^4] 
 - **Impotent:** Roughly 1 in 4 men newly presenting with erectile dysfunction is under 40,[^5] and male sperm counts fell ~52% globally between 1973 and 2018.[^6]
 - **Poorer:** US per-capita healthcare spending is roughly 4x its 1990 level in real terms.[^7]
 - **Less happy:** US teen depression prevalence roughly doubled between 2005 and 2020.[^8]
@@ -43,17 +41,14 @@ So no, the world isn't going to keep you safe. It's too busy chasing short-term 
 
 ## Longevity is Excess
 
-Longevity isn't deprivation — it's extreme excess, so that when something bad happens you can shrug it off.
+Longevity isn't deprivation. It's the opposite.
 
-Consider a competitive company versus a monopoly. The monopoly has such excess that it can invest, lose a few rounds, make mistakes, and keep going. The competitive company always cutting costs is barely getting by, trapped in the present — making one local choice after another until it hits a dead end and dies.
+A body running at the edge — thin muscle, weak heart, short sleep, stressed gut — doesn't survive the first pneumonia, the first car accident, the first hard year at work. True longevity is biological surplus: extra muscle, extra mitochondrial capacity, extra microbial diversity, extra cognitive reserve. When something bad happens, you shrug it off.
 
-Likewise, the frail don't survive the first pneumonia, the first car accident, or the first hard year at work. Those with a surplus do — extra muscle, extra mitochondrial capacity, extra microbial diversity, extra cognitive reserve. It not only logics out but it bears out:
-- top-quartile VO2max is associated with roughly half the all-cause mortality of the bottom quartile.[^20] 
-- Sarcopenia roughly doubles ICU and post-surgical mortality.[^21] 
+- Top-quartile VO2max is associated with roughly half the all-cause mortality of the bottom quartile.[^20]
+- Sarcopenia roughly doubles ICU and post-surgical mortality.[^21]
 
-That's what excess capacity buys you.
-
-True longevity is building a rich reservoir of capacity, then spending it on performing at peak levels until the day you die.
+Think of a monopoly versus a competitor bleeding margin to stay alive. The monopoly invests, absorbs losses, compounds. The competitor optimizes one quarter at a time until it hits a wall and dies. Your body works the same way. True longevity is stockpiling surplus and spending it at peak until the day you die.
 
 ## How to Live Long and Prosper
 
