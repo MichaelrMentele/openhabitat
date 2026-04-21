@@ -12,8 +12,14 @@ export default defineConfig({
 			title: 'OpenHabitat',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
-				{ label: 'Introduction', slug: 'intro' },
-				{ label: 'About', slug: 'about' },
+				{
+					label: 'Start Here',
+					items: [
+						{ label: 'Introduction', slug: 'intro' },
+						{ label: 'About', slug: 'about' },
+						{ label: 'Contribute', slug: 'give' },
+					],
+				},
 				{
 					label: 'You',
 					items: [
@@ -56,7 +62,6 @@ export default defineConfig({
 						{ label: 'Michael Mentele', slug: 'case-studies/michael-mentele' },
 					],
 				},
-				{ label: 'Give Back', slug: 'give' },
 			],
 		}),
 	],
