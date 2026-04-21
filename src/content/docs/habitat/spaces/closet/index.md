@@ -1,4 +1,3 @@
 ---
 title: Closet
-draft: true
 ---

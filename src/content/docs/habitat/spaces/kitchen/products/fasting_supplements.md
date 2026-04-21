@@ -1,6 +1,5 @@
 ---
 title: Fasting Supplements
-draft: true
 ---
 
 | Supplement | Dose | Timing | Why |

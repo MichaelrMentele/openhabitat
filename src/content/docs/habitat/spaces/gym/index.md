@@ -1,4 +1,3 @@
 ---
 title: Gym
-draft: true
 ---

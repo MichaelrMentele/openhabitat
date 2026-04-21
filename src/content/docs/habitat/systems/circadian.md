@@ -1,6 +1,7 @@
 ---
 title: Circadian
 draft: true
+description: The timing of the body and how systems & spaces should accomadate across the home.
 ---
 
 ## Problem

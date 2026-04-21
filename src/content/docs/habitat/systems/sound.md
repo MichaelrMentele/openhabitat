@@ -1,5 +1,6 @@
 ---
 title: Sound
+description: Healthy sound across the home.
 draft: true
 ---
 

@@ -14,7 +14,6 @@ export default defineConfig({
 			sidebar: [
 				{ label: 'Introduction', slug: 'intro' },
 				{ label: 'About', slug: 'about' },
-				{ label: 'Give Back', slug: 'give' },
 				{
 					label: 'You',
 					items: [
@@ -36,8 +35,6 @@ export default defineConfig({
 						{ label: 'Foods', slug: 'habitat/systems/foods' },
 						{ label: 'Sound', slug: 'habitat/systems/sound' },
 						{ label: 'Textiles', slug: 'habitat/systems/textiles' },
-						{ label: 'Materials', slug: 'habitat/systems/materials' },
-						{ label: 'Radiation', slug: 'habitat/systems/radiation' },
 					],
 				},
 				{
@@ -53,6 +50,7 @@ export default defineConfig({
 						{ label: 'Laundry', slug: 'habitat/spaces/laundry' },
 					],
 				},
+				{ label: 'Give Back', slug: 'give' },
 			],
 		}),
 	],

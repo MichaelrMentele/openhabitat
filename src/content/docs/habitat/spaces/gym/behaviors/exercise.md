@@ -1,6 +1,5 @@
 ---
 title: Exercise
-draft: true
 ---
 
 M: Full Body Max

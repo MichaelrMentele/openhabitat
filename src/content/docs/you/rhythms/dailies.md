@@ -1,6 +1,5 @@
 ---
 title: Dailies
-draft: true
 ---
 
 Overview Table

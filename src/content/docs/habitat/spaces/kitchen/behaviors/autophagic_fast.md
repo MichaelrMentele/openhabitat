@@ -1,6 +1,5 @@
 ---
 title: Autophagic Fast
-draft: true
 ---
 
 ### Fast Day Rules

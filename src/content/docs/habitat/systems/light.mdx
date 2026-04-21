@@ -1,16 +1,25 @@
 ---
 title: Light
+description: The full electromagnetic spectrum — visible light as signal, invisible radiation as noise.
 draft: true
 ---
 
-{/* TODO: save image to src/assets/light-circadian.png and uncomment:
+{/* TODO: save images to src/assets/ and uncomment:
 import { Image } from 'astro:assets';
 import circadianLight from '~/assets/light-circadian.png';
+import emSpectrum from '~/assets/em-spectrum.png';
+import radiationVgcc from '~/assets/radiation-vgcc.png';
 */}
 
 ## Problem
 
+Light is electromagnetic radiation. Some bands (visible light) are the *signal* that runs your circadian clock. Other bands (UV, ELF, RF) are *noise* your biology wasn't built for.
+
 {/* TODO: <Image src={circadianLight} alt="Diagram showing daytime activation vs nighttime restoration: bright light activates ipRGCs → SCN → pineal gland, suppressing melatonin and raising cortisol; darkness inactivates ipRGCs, allowing melatonin and growth hormone to rise for sleep and cellular repair." /> */}
+
+{/* TODO: <Image src={emSpectrum} alt="Electromagnetic spectrum chart showing radio waves, microwaves, visible light, ultraviolet, X-rays, and gamma / radioactive waste, with a boundary between non-ionizing and ionizing radiation." /> */}
+
+{/* TODO: <Image src={radiationVgcc} alt="Cellular diagram: EMF activates voltage-gated calcium channels (VGCCs), driving calcium influx that activates calmodulin — the downstream transducer that drives oxidative stress and nitric-oxide pathways linked to chronic EMF harm." /> */}
 
 - why should we care?
 - what is this costing us?
@@ -18,7 +27,7 @@ import circadianLight from '~/assets/light-circadian.png';
 
 ## Goal
 
-Light is the master signal for your circadian clock. Match intensity and spectrum to the time of day:
+**Visible light — match intensity and spectrum to the time of day.**
 
 | Time of Day | Visual Lux | Melanopic EDI | Color Temp (CCT) | Biological Outcome |
 | --- | --- | --- | --- | --- |
@@ -26,6 +35,15 @@ Light is the master signal for your circadian clock. Match intensity and spectru
 | Daytime (Work) | 300–500 lx | >150 lx | 4000K–5000K | Maintains focus; suppresses midday melatonin. |
 | Evening (−3h) | 50–100 lx | ≤10 lx | 1800K–2400K | Wind-down signal; triggers melatonin onset. |
 | Night (Sleep) | ≤1 lx | ≤1 lx | Amber / Red | Zero blue light. Maximizes deep sleep (N3). |
+
+**Invisible EM — minimize non-ionizing exposure, especially during sleep.**
+
+| Category | Metric | Target (Wholesome) | Target (Sleep/Night) | Why it Matters |
+| --- | --- | --- | --- | --- |
+| Ultraviolet (UV) | UV Index (UVI) | 0.0 (indoors) | 0.0 | Prevents DNA damage and skin aging. |
+| Magnetic (ELF) | MilliGauss (mG) | ≤1.0 mG | ≤0.5 mG | Prevents interference with melatonin and voltage-gated calcium channels. |
+| Electric (ELF) | Volts/Meter (V/m) | ≤10 V/m | ≤1.5 V/m | Lowers nervous system "hum"; aids HRV recovery. |
+| Radio (RF) | μW/m² | ≤1,000 μW/m² | ≤10 μW/m² | Minimizes high-frequency noise from Wi-Fi / 5G. |
 
 ## Gap
 - what is challenging about getting to the ideal future?

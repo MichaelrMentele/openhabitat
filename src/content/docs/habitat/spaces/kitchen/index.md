@@ -1,6 +1,5 @@
 ---
 title: Kitchen
-draft: true
 ---
 
 ## Problem

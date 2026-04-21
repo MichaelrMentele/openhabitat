@@ -1,6 +1,5 @@
 ---
 title: Yearlies
-draft: true
 ---
 
 ## Problem
