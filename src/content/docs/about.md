@@ -1,9 +1,10 @@
 ---
 title: About
 description: Who you're listening too.
+template: splash
 ---
 
-The world's biggest loss is the Geographic Lottery. Where you are born should not be your destiny. We can solve it together by endowing every man, woman, and child with an optimal habitat to grow with by making longevity, performance, and happiness the automatic default.
+Where you are born should not be your destiny. We can solve this Geographical Lottery by endowing every man, woman, and child with an optimal habitat to grow with by making longevity, performance, and happiness the automatic default.
 
 ## The Creator
 

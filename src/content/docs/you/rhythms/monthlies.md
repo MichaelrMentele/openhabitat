@@ -1,5 +1,6 @@
 ---
 title: Monthlies
+docType: rhythm
 sidebar:
   badge:
     text: Outline

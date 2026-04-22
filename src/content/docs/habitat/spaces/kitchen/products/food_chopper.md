@@ -1,6 +1,7 @@
 ---
 title: Food Chopper
 description: Batch meal prep and fast chopping.
+docType: product_decision
 ---
 
 ## What We Were Looking For

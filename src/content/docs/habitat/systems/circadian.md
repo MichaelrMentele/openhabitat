@@ -1,6 +1,7 @@
 ---
 title: Circadian
 description: The timing of the body and how systems & spaces should accomadate across the home.
+docType: system
 sidebar:
   badge:
     text: Outline

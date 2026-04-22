@@ -1,5 +1,6 @@
 ---
 title: Weeklies
+docType: rhythm
 sidebar:
   badge:
     text: Outline

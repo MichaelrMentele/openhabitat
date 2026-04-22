@@ -1,5 +1,6 @@
 ---
 title: Yearlies
+docType: rhythm
 sidebar:
   badge:
     text: Outline

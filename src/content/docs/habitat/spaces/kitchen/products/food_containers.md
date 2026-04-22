@@ -1,5 +1,6 @@
 ---
 title: Food Containers
+docType: product_decision
 ---
 
 ## What We Were Looking For

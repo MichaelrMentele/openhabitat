@@ -1,6 +1,7 @@
 ---
 title: Sound
 description: Healthy sound across the home.
+docType: system
 sidebar:
   badge:
     text: Outline

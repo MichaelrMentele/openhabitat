@@ -1,5 +1,6 @@
 ---
 title: Contribute
+template: splash
 ---
 
 If you've found this project useful, you can reciprocate by:

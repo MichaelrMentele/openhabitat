@@ -1,5 +1,6 @@
 ---
 title: Dailies
+docType: rhythm
 sidebar:
   badge:
     text: Draft

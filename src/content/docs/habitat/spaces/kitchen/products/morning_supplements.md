@@ -1,5 +1,6 @@
 ---
 title: Breakfast
+docType: product_decision
 ---
 
 | Supplement | Vendor | Dose | Timing | Why |

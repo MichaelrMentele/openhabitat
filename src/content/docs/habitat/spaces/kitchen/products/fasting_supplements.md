@@ -1,5 +1,6 @@
 ---
 title: Fasting Supplements
+docType: product_decision
 ---
 
 | Supplement | Dose | Timing | Why |
