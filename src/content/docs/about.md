@@ -8,7 +8,7 @@ Where you are born should not be your destiny. We can solve this Geographical Lo
 
 ## The Creator
 
-Michael ranks in the top 1% of the [Rejuvenation Olympics](https://rejuvenationolympics.com/) and is a fellow of the Longevity Biotech Fellowship. He's a former genetics software engineer, serial tech founder, 10 year biohacker, and a top 1% fitness performer for his age group despite being a desk jockey.
+Michael ranks in the top 1% of the [Rejuvenation Olympics](https://www.rejuvenationolympics.com/dunedin-pace) (you can look up Michael Mentele and other names here) and is a fellow of the Longevity Biotech Fellowship. He's a former genetics software engineer, serial tech founder, 10 year biohacker, and a top 1% fitness performer for his age group despite being a desk jockey.
 
 ## License & Health Disclaimer
 
