@@ -59,6 +59,7 @@ export default defineConfig({
 							{
 								label: 'Body',
 								items: [
+									{ label: 'Introduction', slug: 'you/body/intro' },
 									{ label: 'Gut', slug: 'you/body/gut' },
 									{ label: 'Skin', slug: 'you/body/skin' },
 									{ label: 'Hair', slug: 'you/body/hair' },
