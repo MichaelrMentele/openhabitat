@@ -3,64 +3,65 @@ title: Your Life is at Stake
 description: Setting the stage, what the future holds, why you should care, why you should act.
 ---
 
-You are losing 5–10 healthy years, and living a stupider, sicker, poorer, less happy life than you should. This isn't a comparison to the past, this is a comparison to our peers and to our potential.
+You are losing 5–10 healthy years, and living a stupider, sicker, poorer, and less happy life than you could be through no fault of your own:
 
-- **Shorter:** US healthy, non-disabled, *lifespan runs ~10 years below Australia, Korea, and Japan* [^9] and they aren't even optimal.
-- **Stupider:** Measured IQ has fallen ~1.8 points per decade across developed nations since the 1970s — the "reverse Flynn effect" — after a century of gains.[^2]
-- **Sicker:** Colorectal cancer in adults under 50 has roughly doubled since the early 1990s and is now the leading cancer killer of men under 50.[^3] US obesity climbed from ~14% in 1980 to ~42% in 2020.[^4] 
-- **Impotent:** Roughly 1 in 4 men newly presenting with erectile dysfunction is under 40,[^5] and male sperm counts fell ~52% globally between 1973 and 2018.[^6]
-- **Poorer:** US per-capita healthcare spending is roughly 4x its 1990 level in real terms.[^7]
+- **Shorter:** US healthy, non-disabled, *lifespan runs ~10 years below Australia, Korea, and Japan* [^9] and they aren't even doing things optimally. How many years are we really leaving on the table?
+- **Sicker:** There are numerous measures from obesity (climbed from ~14% in 1980 to ~42% in 2020)[^4] to loneliness but there are also direct killers like colorectal cancer in adults under 50, which has doubled since the 1990s and is the leading cancer killer of men under 50.[^3]  
+- **Impotent:** Roughly 1 in 4 men newly presenting with erectile dysfunction are under 40,[^5] and male sperm counts fell ~52% globally between 1973 and 2018.[^6]
+- **Poorer:** US per-capita healthcare spending is roughly 4x its 1990 level in real terms. That means you have less relative spending power for other goods. [^7]
+- **Stupider:** Measured IQ has fallen ~1.8 points per decade across developed nations since the 1970s — the "reverse Flynn effect" — after a century of gains.[^2] 
 - **Less happy:** US teen depression prevalence roughly doubled between 2005 and 2020.[^8]
 
-A "crazy" idea: maybe 0.5% of your brain being plastic[^14] makes you less smart. Maybe we can explain the majority of our health problems from the space-age pollution we receive from conception.
+Perhaps unhappiness and IQ loss isn't a health issue you say... maybe it's LLMs or social media or the schools. 
 
-Perhaps, after we are 100% certain we have ruled out the foundation for biological health we can turn to social discussions about tech and education.
+Perhaps, but, can you rule it out? Isn't it plausible that the ~80,000+ chemicals in US commerce, over 90% of which have NOT been tested for health effects under the original TSCA [^18], aren't good for us? 
 
-## The World Won't Save You
-
-Your tap water is not designed for your health — it's designed to not kill you... today. Your food is designed to hijack your taste buds at minimum cost, not to nourish you. Your air isn't designed at all.
-
-You live sandwiched between short-sighted institutions doing the minimum for your health and companies doing the maximum to hijack you. This is the post-WWII inflection we've been living inside since the 1970s, when subsidized industrialization turned food and consumer goods into chemistry experiments at scale.
-
-Assume everything is poisonous, because statistically it is:
+Maybe our caveman bodies being so polluted with space-age materials isn't good:
 
 - **PFAS** ("forever chemicals") sit in the blood of ~98% of Americans[^10] and appear in ~45% of US tap water samples.[^11]
-- **Microplastics** have been found in 100% of placentas tested,[^12] ~80% of human blood,[^13] and brain concentrations rose ~50% between 2016 and 2024 — roughly 0.5% of a modern brain is now plastic by mass.[^14]
-- **99% of the planet** breathes air exceeding WHO pollution limits.[^15]
+- **Microplastics** have been found in 100% of placentas tested,[^12] ~80% of human blood,[^13] brain concentrations rose ~50% between 2016 and 2024, and roughly 0.5% of a modern brain is now plastic by mass.[^14]
 - **BPA** is detected in ~93% of Americans over age 6.[^16]
 
-And it's accelerating — global plastic production is on track to **triple by 2060**.[^17] And... plastic is just the canary. You're inside a chemistry experiment that nobody ran safety trials for. There are ~80,000+ chemicals in US commerce and only a few hundred have been tested for health effects under the original TSCA.[^18] The US bans ~11 cosmetic ingredients; the EU bans 1,300+.[^19]
+Just a crazy idea, but do you think that living in a chemical experiment might cause us to function less well? And that, when you function less well, you are stupider, sicker, and less happy? 
 
-From conception infants are fed plastic and chemicals through the placenta, breastmilk, and home air. They are swaddled in plastic sheets, pillows, clothes, and grow up consuming contaminated food, air, and water. 
+There is nothing more valuable than human life, so, let's assume things are harmful until proven beyond a shadow of a doubt instead of assuming they are harmless until people start dying.
 
-Pollution is a global challenge because we share the same fishbowl. The rocket in the US damages the ozone for Australia. The clouds of micro plastic in China rain down over the oceans polluting fish exported to the United States.
+## Systematic Pollution == Systematic Health Problems
 
-As nations and companies compete, industries take shortcuts — it's classic Tragedy of the Commons. Each polluter captures the local benefit while the cost diffuses into the shared fishbowl, so the locally rational move is to pollute faster. A global pact *not* to pollute fails on game theory alone: any nation that defects wins the short run.
+How did we get here?
 
-So no, the world isn't going to keep you safe. It's too busy chasing short-term nonsense.
+1. It's a new problem, largely, from the last 50 years. Our biggest issue is we just naively assume new synthetics are harmless. We should be more skeptical as a society when it comes to things that go in or on our bodies.
 
-## Longevity is Excess
+2. Another, simple explanation, is Tragedy of the Commons. Each global polluter captures the local benefit while the cost diffuses into the shared fishbowl, so the locally rational move is to pollute faster e.g. the rocket in the US damages the ozone for Australia. The clouds of micro plastic in China rain down over the oceans, polluting fish exported to the United States. That sort of thing. We all live in the same fishbowl, but we usually don't bear the full cost of our own pollution.
 
-Longevity isn't deprivation. It's the opposite.
+But ultimately, I believe the root cause of our health problems is simply that the problem is invisible. We are cavemen; the pollution is invisible space-age particulate. Unfortunately, the price of food doesn't include the cancer bills 50 years from now, or the allergies you shouldn't have, so consumers buy the cheap food that tastes good. 
 
-A body running at the edge — thin muscle, weak heart, short sleep, stressed gut — doesn't survive the first pneumonia, the first car accident, the first hard year at work. True longevity is biological surplus: extra muscle, extra mitochondrial capacity, extra microbial diversity, extra cognitive reserve. When something bad happens, you shrug it off.
+Since every purchase is a vote, the company making wholesome food goes out of business and the company making weaponized food grows. In this way we vote in the bad, and vote out the good.
 
+The best way we can fight back, is simply updating what we are able to see. That's what the "You" section of this book is designed to do, give you space-age x-ray vision.
+
+## Longevity is About Excess
+
+A body running at the edge — thin muscle, weak heart, short sleep, stressed gut — doesn't survive the first pneumonia, the first car accident, the first hard year at work. 
+
+True longevity is biological surplus: extra muscle, extra mitochondrial capacity, extra microbial diversity, extra cognitive reserve. Then, when something bad happens, you shrug it off.
+
+For example:
 - Top-quartile VO2max is associated with roughly half the all-cause mortality of the bottom quartile.[^20]
 - Sarcopenia roughly doubles ICU and post-surgical mortality.[^21]
 
-Think of a monopoly versus a competitor bleeding margin to stay alive. The monopoly invests, absorbs losses, compounds. The competitor optimizes one quarter at a time until it hits a wall and dies. Your body works the same way. True longevity is stockpiling surplus and spending it at peak until the day you die.
+It makes sense that the healthier you are, the less likely you are to break, the better you will perform, and the happier you will be.
 
-## How to Live Long and Prosper
+Think of a monopoly versus a competitive company. The monopoly invests, absorbs losses, compounds. The competitor optimizes one quarter at a time until it hits a wall and dies. Your body works the same way.
 
-Your caveman biology is outgunned and outfunded by invisible space-age threats — weaponized food and omnipresent pollution.
+## Live Long and Prosper
 
-This handbook is your way to take back control. When you create an optimal habitat, longevity, happiness, and performance become the automatic default.
+My family ages at three-quarters the pace of the average American, and we're pushing toward 0.6x. I've been running experiments for a decade. At 17 I squatted over 400 lbs and trained for hours every day; at 36, as a desk jockey training 30 minutes a day, I can beat 17-year-old me in the 40-meter dash. 
 
-This manual isn't a bullshit hype supplement stack or magic pill — it's the real work that makes the real difference. It's holistic: the principles, reasoning, programs, and products you need to set up an optimal habitat for you and yours. Follow it blindly and get our results, or read the principles and adapt to your own system.
+You can too.
 
-My family ages at three-quarters the pace of the average American, and we're pushing toward 0.6x. I've been running experiments on myself since I was 24. At 17 I squatted over 400 lbs and trained for hours every day; at 36, as a desk jockey training 30 minutes a day, I can sprint faster than ever. 
+This handbook is your way to take back control. When you create an optimal habitat, longevity, happiness, and performance become the automatic default. Follow it blindly and get our results, or read the principles and adapt to your own system.
 
-Companies and nations only do what their people buy into. Capitalism is the truest form of democracy, and you vote with dollars every day. Stop buying from polluters and abusers so they must change or die.
 
 ## References
 
