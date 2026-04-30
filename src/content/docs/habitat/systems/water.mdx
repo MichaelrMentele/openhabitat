@@ -7,6 +7,7 @@ docType: system
 import { Image } from 'astro:assets';
 import { Aside } from '@astrojs/starlight/components';
 import waterContaminants from '~/assets/water-hazard.jpg';
+import austinWater from '~/assets/austin-water.png';
 
 
 ## Problem
@@ -80,7 +81,7 @@ The challenge with your water is:
 2. And, compliance levels are often NOT even met.
 
 Austin, the capital of Texas has a bunch of junk in it that's linked to cancer:
-![Showing a dozen contaminants exceeding EWG guidelines by 100x](assets/austin-water.png)
+<Image src={austinWater} alt="Showing a dozen contaminants exceeding EWG guidelines by 100x" />
 
 ## Solution
 
@@ -116,12 +117,7 @@ Why a whole home filter? Because you get polluted when you shower or bathe or br
 
 We run our own RO system and have used advanced testing to see the difference at the tap.
 
-Without an RO system in Austin:
-
-app.mytapscore.com/report/QVSFDC
-
-With the RO system:
-
-app.mytapscore.com/report/25MQN3
+- [Without an RO system in Austin](https://app.mytapscore.com/report/QVSFDC)
+- [With the RO system](https://app.mytapscore.com/report/25MQN3)
 
 We haven't tested the whole home filtration system ourselves but after testing at the tap version we trust the performance of the filter.
