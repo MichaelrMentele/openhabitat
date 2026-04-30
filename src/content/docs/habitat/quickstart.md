@@ -7,23 +7,17 @@ sidebar:
     variant: danger
 ---
 
-You cannot deploy all of Habitat at once. Sequence matters — some changes unlock others, and budget is finite.
+You cannot deploy all of Habitat at once. Some changes unlock others, and budget is finite.
 
 ## Order of Operations
 
-<recommended rough order for a household starting from zero — the cheapest / highest-leverage changes first, then deeper infrastructure. Fill in once settled.>
+A recommended rough order for a household from most benefit to least:
 
-1. Audit what you already have.
-2. Fix the [Bedroom](/habitat/spaces/bedroom/) first — sleep is the foundation.
-3. Install whole-home [Air](/habitat/systems/air/) and [Water](/habitat/systems/water/).
-4. Rework the [Kitchen](/habitat/spaces/kitchen/) — food is the highest-frequency input.
-5. Dial in [Light](/habitat/systems/light/) and [Circadian](/habitat/systems/circadian/) rhythms across all rooms.
-6. Address remaining spaces one at a time.
+1. Ideally, measure using the [Compass](/you/youth/) so you can do before and after checks over time
+2. Fix the [Bedroom](/habitat/spaces/bedroom/) first — sleep is the foundation
+1. Install habitat-wide [Air](/habitat/systems/air/) and [Water](/habitat/systems/water/).
+1. Rework the [Kitchen](/habitat/spaces/kitchen/)
+1. Dial in [Light](/habitat/systems/light/) and [Circadian](/habitat/systems/circadian/) rhythms across all rooms
+1. Update your [purchasing habits](/you/behaviors/purchasing/)
 
-## What to Buy First
-
-<short list of the highest-leverage items to buy/install first, with rough budget tiers>
-
-## What to Skip
-
-<common traps — things that look important but aren't, or that only matter after the foundation is in>
+From there, address remaining spaces one at a time
